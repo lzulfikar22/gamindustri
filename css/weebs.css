@@ -302,6 +302,7 @@ nav ul li a:hover{
     text-decoration: none;
 }
 #wrapper #content #chara .chara-image{ 
+    margin-top: 49px;
     width: 250px;
     float: right;
 }
